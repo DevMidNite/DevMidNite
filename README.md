@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
-- 📫 Reach me on discord @dev.midnite
+- 📫 Reach me on devmidnite@gmail.com
 
 <!---
 DevMidNite/DevMidNite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
